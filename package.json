@@ -1,0 +1,13 @@
+{
+  "name": "logfoot",
+  "version": "0.1.0",
+  "keywords": [
+    "cloud",
+    "log",
+    "cloud-log"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "request": "latest"
+  }
+}
